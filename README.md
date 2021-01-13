@@ -1,4 +1,4 @@
-# Project-Snake-Game
+# Project-Snake-Game🐍
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -22,10 +22,6 @@ It is hosted at:https://rishikaghosh.github.io/Project-Snake-Game/
 
 ## Setup
 I used the Atoms IDE. It is very easy to download!Just head over to https://atom.io/ .
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 * Used event handlers to add movement to the snake.
