@@ -12,7 +12,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example Screenshot](Screenshot(30).png)
+![Screenshot (30)](https://user-images.githubusercontent.com/58912231/104435977-0a955d80-55b3-11eb-8359-0207b1f17a27.png)
 
 ## Technologies
 * Tech 1 - version 1.0
