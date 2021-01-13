@@ -12,7 +12,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example Screenshot](https://github.com/[RishikaGhosh]/[Project-Snake-Game]/blob/[master]/Screenshot(30).jpg?raw=true)
+![Example Screenshot](https://github.com/[RishikaGhosh]/[Project-Snake-Game]/blob/[master]/screenshots/Screenshot(30).jpg?raw=true)
 
 ## Technologies
 * Tech 1 - version 1.0
