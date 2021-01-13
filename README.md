@@ -28,18 +28,13 @@ Show examples of usage:
 `put-your-code-here`
 
 ## Features
-* Awesome feature 1
-  I have used event handlers to add movement to the snake.
-* Awesome feature 2
-  I have created a randomFoodgenerator function to ensure that the apple rises at random locations everytime we play the game.
-* Awesome feature 3
-  I have used a game loop to make this entire game work.
+* Used event handlers to add movement to the snake.
+* Created a randomFoodgenerator function to ensure that the apple rises at random locations everytime we play the game.
+* Used a game loop to make this entire game work.
 
-To-do list:
-* Wow improvement to be done 1
-  In the future I would like to add animations to the face of the snake.
-* Wow improvement to be done 2
-  I would like to create a backend database to store the score.
+## To-do list:
+* In the future I would like to add animations to the face of the snake.
+* I would like to create a backend database to store the score.
 
 ## Status
 Project is:  _finished_
