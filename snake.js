@@ -159,11 +159,7 @@ function getRandomFood(){
     var foodX = Math.round(Math.random()*(W-20)/20);
     var foodY = Math.round(Math.random()*(H-20)/20);
 
-    //foodColors = ["red","green","aqua","coral","orchid"];
-    //var i = Math.round(Math.random()*foodColors.length);
-
-
-
+    
     var food = {
         x:foodX,
         y:foodY,
